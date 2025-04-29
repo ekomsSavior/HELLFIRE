@@ -82,6 +82,9 @@ Delay between messages (in seconds, can be decimal): 0.001
 ...
 [✔] All messages sent successfully. Hellfire operation complete.
 
+![FOURTYONE](https://github.com/user-attachments/assets/ec9febfb-3481-456d-bfe2-4d44869f8b95)
+
+
 Tips for Success-
 
   Use full number format (+1...)
