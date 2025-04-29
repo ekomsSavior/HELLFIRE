@@ -51,7 +51,7 @@ Use cases
 
 ---
 
-## 🧪 Installation & Execution
+##  Installation & Execution
 
 git clone https://github.com/ekomsSavior/HELLFIRE.git
 
