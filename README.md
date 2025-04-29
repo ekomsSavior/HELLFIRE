@@ -2,8 +2,7 @@
        open-source weaponry 
         _by ek0ms savi0r_
 
-![hellfire](https://github.com/user-attachments/assets/0a4e25f1-dbd5-4b47-8082-fac579e8a958)
-
+![hellfire](https://github.com/user-attachments/assets/6b036330-ca42-4f47-b38c-116390887824)
 
 ## What is Hellfire?
 
