@@ -2,11 +2,9 @@
 **Autonomous SMS Flooding Tool**  
 _by ek0ms savi0r_
 
-   _   _   _   _   _   _   _   _  
-  / \ / \ / \ / \ / \ / \ / \ / \ 
  ( H | E | L | L | F | I | R | E )
-  \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/ 
-      open-source weaponry
+       open-source weaponry
+
 ## What is Hellfire?
 
 **Hellfire** is a real-world SMS flooding tool built for cybersecurity research, counter-scamming, and hacker education.  
