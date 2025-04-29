@@ -8,7 +8,7 @@ def print_banner():
  ( H | E | L | L | F | I | R | E )
   \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/ 
          by ek0ms savi0r    
-      """)
+    """)
 
 def find_port():
     return "/dev/ttyUSB0"
@@ -27,17 +27,11 @@ def send_sms(port, number, message, count, delay):
 
         for i in range(count):
             full_message = f"{message} #{i+1}"
-            print(f"\n[>] Sending SMS [{i+1}/{count}] to {number}")
-            print(f"    Payload: \"{full_message}\"")
+            print(f"[{i+1}/{count}] {full_message}")
             ser.write(f'AT+CMGS="{number}"\r'.encode())
-            time.sleep(1)
+            time.sleep(0.25)  # Bare minimum for modem to accept number
             ser.write(full_message.encode() + b"\x1A")
-            time.sleep(3)
-            print("[+] Message sent!")
-
-            if i < count - 1:
-                print(f"[~] Waiting {delay} seconds before next blast...")
-                time.sleep(delay)
+            time.sleep(delay)
 
         ser.close()
         print("\n[✔] All messages sent successfully. Hellfire operation complete.")
