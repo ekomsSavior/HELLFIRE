@@ -88,7 +88,6 @@ Tips for Success-
 
   Use short delays (e.g. 0.05) for rapid bursts   
   
-  Run from a terminal, not a virtual environment
 
 🛡 Disclaimer
 
