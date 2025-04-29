@@ -1,8 +1,8 @@
 ( H | E | L | L | F | I | R | E )
  
-       open-source weaponry 
+   open-source weaponry 
 
-        _by ek0ms savi0r_
+   _by ek0ms savi0r_
 
 ![hellfire](https://github.com/user-attachments/assets/6b036330-ca42-4f47-b38c-116390887824)
 
