@@ -35,9 +35,7 @@ Use cases
 
   - Works with: SpeedTalk, T-Mobile, AT&T Go, etc.  
 
-  - Must support outgoing SMS (not just data)  
-
-  - Use fake name + prepaid gift card  
+  - Must support outgoing SMS (not just data)   
 
   - Activate SIM at provider site  
 
