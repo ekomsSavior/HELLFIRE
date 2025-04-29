@@ -47,7 +47,9 @@ Use cases
 
   - Just clone and run it
 
-  - your SIM800C USB will be auto detected by kali.
+  - your SIM800C USB will be auto detected by kali if that is your host os.
+    
+  - if you are running a vm you have to attach the sim800c usb to the vm in > settings> USB> + ... before you start your vm. 
 
 ---
 
@@ -93,9 +95,12 @@ This tool is for ethical cybersecurity research only.
 
 By using Hellfire, you agree to-
 
-Only target systems and numbers you control or have permission to test
+Only target systems and numbers you control or have permission to test.
 
-Coming Soon
+the user assumes full responsibility of thier actions when using HELLFIRE choose your path wisely.
+
+
+**Coming Soon**
 
   SMS origin tracing
 
