@@ -34,7 +34,17 @@ Use cases
 
 - **Prepaid Disposable SIM Card**  
 
-  - Works with: SpeedTalk, T-Mobile, AT&T Go, etc.  
+  -   🇺🇸 United States:
+	•	Lycamobile PayGo (SMS + voice + works in modems)
+	•	SpeedTalk IoT SIM (but not all versions — look for ones that say “modem compatible”)
+	•	AT&T GoPhone prepaid (works fine in SIM800C)
+	•	T-Mobile SIM from a physical store (but check it’s not a travel SIM!)
+
+🇬🇧 / 🇪🇺 Europe:
+	•	GiffGaff (UK)
+	•	Vodafone PAYG
+	•	Lebara
+	•	Orange
 
   - Must support outgoing SMS (not just data)   
 
