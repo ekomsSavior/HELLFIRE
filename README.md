@@ -32,27 +32,18 @@ Use cases
 
   [Amazon link](https://a.co/d/cWa05mU) or search: `SIM800C GSM USB dongle`
 
-- **Prepaid Disposable SIM Card**  
+- **Prepaid M2M / IoT SIM Card (REQUIRED — standard phone SIMs often fail!)**  
+  → These are designed for modems and work reliably:
+  
+    • Hologram.io Global IoT SIM  
+    • 1NCE IoT SIM  
+    • Things Mobile SIM  
+    • Air Global Plan01s IoT SIM (Amazon)  
 
-  -   🇺🇸 United States:
-	•	Lycamobile PayGo (SMS + voice + works in modems)
-	•	SpeedTalk IoT SIM (but not all versions — look for ones that say “modem compatible”)
-	•	AT&T GoPhone prepaid (works fine in SIM800C)
-	•	T-Mobile SIM from a physical store (but check it’s not a travel SIM!)
-
-🇬🇧 / 🇪🇺 Europe:
-	•	GiffGaff (UK)
-	•	Vodafone PAYG
-	•	Lebara
-	•	Orange
-
-  - Must support outgoing SMS (not just data)   
-
-  - Activate SIM at provider site  
-
-  - **Wait up to 24 hours after activation** for SMS to begin working  
-
-  - Format all numbers like: `+1XXXXXXXXXX`
+  → Must support **outgoing SMS** (not just data)  
+  → Activate SIM at provider site  
+  → **Wait up to 24 hours after activation** for SMS to work  
+  → Format numbers like: `+1XXXXXXXXXX`
 
 - **Kali Linux or any Debian-based distro**  
 
